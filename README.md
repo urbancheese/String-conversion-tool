@@ -14,7 +14,7 @@ This project is a simple C++ program that converts between text, binary, and hex
 4. **Hex to Text**: Converts hexadecimal input back to a text string.
 
 ## How to Use
-1. Clone the repository: git clone https://github.com/yourusername/String-Conversion-Tool.git
+1. Clone the repository: git clone https://github.com/urbancheese/String-Conversion-Tool.git
 2. Navigate to the project directory:cd String-Conversion-Tool
 3. Compile the program using any C++ compiler: g++ -o string_conversion main.cpp
 4. Run the program: ./string_conversion
